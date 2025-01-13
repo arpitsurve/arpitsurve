@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpit Surve</h1>
+<h1 align="center">Hey There, I'm Arpit Surve</h1>
 <h3 align="center">I am an electronics geek finding footings in ML</h3>
 
 - 🔭 I’m currently working on **Throughbox**
